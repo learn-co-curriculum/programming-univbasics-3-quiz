@@ -2,7 +2,7 @@
 
 ???
 
-## Programming as Conversation 3: Methods Quiz
+# Programming as Conversation 3: Methods Quiz
 
 ?: Local variables in Ruby are accessible from anywhere in the Ruby program.
 
