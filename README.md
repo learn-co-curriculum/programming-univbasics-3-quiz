@@ -50,10 +50,10 @@ end
 
 ?: A argument is a value that the method expects you to pass when you call it.
 
-( ) TRUE
-(X) FALSE
+(X) TRUE
+( ) FALSE
 
-?: An parameter is the value you pass to a method when you call the method.
+?: A parameter is the value you pass to a method when you call the method.
 
 ( ) TRUE
 (X) FALSE
