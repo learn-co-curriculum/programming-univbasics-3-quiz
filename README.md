@@ -14,7 +14,7 @@
 (X) TRUE
 ( ) FALSE
 
-?: The code sample below demonstrates abstraction?
+?: Does the code sample below demonstrates abstraction?
 
 ```
 def destruction_robot
