@@ -48,7 +48,7 @@ end
 (X) Arguments
 ( ) None of the above.
 
-?: A argument is a value that the method expects you to pass when you call it.
+?: An argument is a value that the method expects you to pass when you call it.
 
 (X) TRUE
 ( ) FALSE
